@@ -1,4 +1,4 @@
 // @ts-check
-// Formatting, Linting
-// Formatting: Prettier
-// Linting: ESLint
+
+//Without FrameWork try to create backend 
+

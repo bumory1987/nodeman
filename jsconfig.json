@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
-        "strict": false
+        "strict": false,
+        "lib" : ["es2022"]
     },
     "include": [
         "src/**/*"
