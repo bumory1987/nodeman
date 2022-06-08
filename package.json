@@ -2,7 +2,7 @@
   "name": "nodeman",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "src/main.js",
   "engines": {
     "node": "14.16.1"
   },
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "debug": "node src/prototypeman.js",
     "build": "esbuild src/main.js --bundle --outfile=build/main.js --target=node12.22",
-    "dev": "nodemon "
+    "dev": "nodemon src/main.js "
   },
   "repository": {
     "type": "git",
